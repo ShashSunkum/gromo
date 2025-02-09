@@ -60,9 +60,14 @@ Gromo is a proof-of-concept cashback investment platform that automates the proc
 4. **Invest & Grow**: Watch your cashback turn into long-term investments.
 5. **Track Performance**: Monitor your portfolio's growth in real-time.
 
-<div align="center">
-  <img src="path_to_process_flow_image" alt="Gromo Process" width="800" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0;" />
+<div className="flex justify-center my-5">
+      <img
+        src="https://github.com/user-attachments/assets/c953a79f-5e56-419a-8d38-0961a0081359"
+        alt="Gromo Process"
+        className="w-[800px] rounded-[30px] shadow-lg"
+      />
 </div>
+
 
 ## 💻 Tech Stack
 
