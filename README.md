@@ -2,12 +2,6 @@
 
 ## Turn your credit card cashback into smart investments
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-5.x-purple.svg)](https://vitejs.dev/)
-[![Python](https://img.shields.io/badge/Python-3.9+-green.svg)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-2.x-black.svg)](https://flask.palletsprojects.com/)
-
 <div align="center">
   <img src="logo_name.png" alt="Gromo Logo" width="200" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
