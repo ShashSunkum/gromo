@@ -1,54 +1,95 @@
-# gromo
-A hackathon project demonstrating automatic investment of credit card cashback rewards.
+# 💸 Gromo: Put Your Lazy Money to Work
 
+## Turn your credit card cashback into smart investments
 
-# Overview
-The Cashback Investment Platform is a proof-of-concept application that automates the investment of credit card cashback rewards. The platform handles transaction logging, cashback calculations, and investment management through both manual and automated processes.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.x-purple.svg)](https://vitejs.dev/)
+[![Python](https://img.shields.io/badge/Python-3.9+-green.svg)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-2.x-black.svg)](https://flask.palletsprojects.com/)
 
-## Features
+<div align="center">
+  <img src="path_to_your_logo_image" alt="Gromo Logo" width="200" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
-- Transaction Logging: Automatically logs purchases from partner websites
-Dynamic Cashback Calculation: Computes cashback rewards for each transaction
-- Credit Card Management: Tracks balances, available credit, and rewards
-Investment Options:
+> Gromo revolutionizes the way you handle credit card cashback. Don't let your rewards sit idle – invest them for long-term growth!
 
+<div align="center">
+
+[Overview](#-overview) •
+[Features](#-key-features) •
+[How It Works](#-how-it-works) •
+[Tech Stack](#-tech-stack) •
+[Getting Started](#-getting-started)
+
+</div>
+
+## 🚀 Overview
+
+Gromo is a proof-of-concept cashback investment platform that automates the process of investing your credit card rewards. By putting your "lazy money" to work, Gromo helps you maximize the potential of your cashback through smart, diversified investments in ETFs and other long-term options.
+
+### The Problem
+- Unused or underutilized credit card cashback rewards
+- Lack of easy options to invest small, regular cashback amounts
+- Missed opportunities for long-term growth of reward money
+
+### Our Solution
+- Automated cashback tracking and investment
+- Diversified investment options based on risk preference
+- Real-time performance tracking and portfolio management
+
+## 🌟 Key Features
+
+### 1. Smart Transaction Logging
+- Automatic purchase logging from partner websites
+- Dynamic cashback calculation for each transaction
+
+### 2. Flexible Investment Options
 - Manual investment of cashback rewards
 - Automated monthly investment based on portfolio performance
-- Performance Tracking: Real-time monitoring of investment performance metrics
-- Today's return
-- Total return
-- Current stock value
-- Number of shares held
+- Risk-based portfolio selection
 
-- Manual Investment
+### 3. Real-time Performance Tracking
+- Monitor investment performance metrics
+- View current stock value and number of shares
+- Track today's return and total return
 
-Allows users to invest specific amounts from their available cashback rewards
-Supports portfolio selection based on risk preference
-Automatically allocates investments across stocks based on portfolio weights
-Provides immediate confirmation with detailed allocation information
+### 4. Credit Card Management
+- Track balances and available credit
+- Monitor cashback rewards accumulation
 
-- Auto-Investment
+## 🔄 How It Works
 
-Automatically invests all available cashback into the best-performing portfolio
-Uses historical return data to select optimal portfolio
-Handles complete allocation across portfolio stocks
-Provides detailed investment confirmation
+1. **Connect Your Card**: Link your credit card to start tracking cashback.
+2. **Earn Cashback**: Make purchases and accumulate rewards.
+3. **Choose Your Strategy**: Opt for manual or automated investments.
+4. **Invest & Grow**: Watch your cashback turn into long-term investments.
+5. **Track Performance**: Monitor your portfolio's growth in real-time.
 
-- Investment Tracking
+<div align="center">
+  <img src="path_to_process_flow_image" alt="Gromo Process" width="800" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0;" />
+</div>
 
-Real-time monitoring of investment performance
-Detailed view of stock allocations
-Current value calculations
-Performance metrics including returns
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=for-the-badge&logo=vite)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-2.x-000000?style=for-the-badge&logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Latest-red?style=for-the-badge)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-336791?style=for-the-badge&logo=postgresql)
+![Supabase](https://img.shields.io/badge/Supabase-Hosting-3ECF8E?style=for-the-badge&logo=supabase)
+
+</div>
 
 
-
-## Tech Stack
-
-Frontend: React with Vite
-Backend: Flask (Python) with SQLAlchemy ORM
-Database: PostgreSQL (hosted on Supabase)
-Optional: External APIs for stock price updates (Yahoo Finance, IEX Cloud)
 
 ## System Architecture
 Application Layers
