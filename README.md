@@ -9,7 +9,7 @@
 [![Flask](https://img.shields.io/badge/Flask-2.x-black.svg)](https://flask.palletsprojects.com/)
 
 <div align="center">
-  <img src="path_to_your_logo_image" alt="Gromo Logo" width="200" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="logo_name.png" alt="Gromo Logo" width="200" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 > Gromo revolutionizes the way you handle credit card cashback. Don't let your rewards sit idle – invest them for long-term growth!
