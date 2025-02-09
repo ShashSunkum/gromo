@@ -3,7 +3,7 @@
 ## Turn your credit card cashback into smart investments
 
 <div align="center">
-  <img src="logo_name.png" alt="Gromo Logo" width="400" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="logo_name.png" alt="Gromo Logo" width="1000" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 > Gromo revolutionizes the way you handle credit card cashback. Don't let your rewards sit idle – invest them for long-term growth!
