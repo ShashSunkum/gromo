@@ -52,6 +52,24 @@ Gromo is a proof-of-concept cashback investment platform that automates the proc
 - Track balances and available credit
 - Monitor cashback rewards accumulation
 
+<div className="flex flex-col items-center gap-5 my-5">
+      <img
+        src="https://github.com/user-attachments/assets/c953a79f-5e56-419a-8d38-0961a0081359"
+        alt="Gromo Process"
+        className="w-[800px] rounded-[30px] shadow-lg"
+      />
+      <img
+        src="https://github.com/user-attachments/assets/2c1389e9-2545-4fd6-bf52-75e9abf629f7"
+        alt="ss1"
+        className="w-[800px] rounded-[30px] shadow-lg"
+      />
+      <img
+        src="https://github.com/user-attachments/assets/08958e66-8e48-45d3-9433-a8c486580efc"
+        alt="ss2"
+        className="w-[800px] rounded-[30px] shadow-lg"
+      />
+    </div>
+
 ## 🔄 How It Works
 
 1. **Connect Your Card**: Link your credit card to start tracking cashback.
